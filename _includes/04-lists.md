@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. Ham
+2. Egg
+3. Butter
